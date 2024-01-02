@@ -3,10 +3,12 @@
 num1 = input("Enter the first number \n")
 num2 = input("Enter the second number \n")
 
+
 print("numbers before Swapping: \n")
 print("The value of num1 is: ", num1)
 print("The value of num2 is: ", num2)
 
+# swap the two numbers.
 temp = num1
 num1 = num2
 num2 = temp
